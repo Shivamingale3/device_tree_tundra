@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_tundra.mk
+    $(LOCAL_DIR)/awaken_tundra.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_tundra-user \
-    lineage_tundra-userdebug \
-    lineage_tundra-eng
+    awaken_tundra-ap1a-user \
+    awaken_tundra-ap1a-userdebug \
+    awaken_tundra-ap1a-eng
